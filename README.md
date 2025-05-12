@@ -70,7 +70,7 @@ Traditional alarm systems often fail to prevent oversleeping due to:
 4. Configure Wi-Fi credentials
 5. Upload to ESP32 board
 
-## Contributions
+## Contributor
 - Sargam Chicholikar
 - Divyansh Pratap Singh
 - Liza
